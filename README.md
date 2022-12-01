@@ -10,4 +10,11 @@ which are not part of RISC-V ISA.
 
 
 ![image](https://user-images.githubusercontent.com/94054806/205160711-6f629ff1-7fc1-4cbc-a5b6-4de842950c74.png)
-![image](https://user-images.githubusercontent.com/94054806/205161140-bb81d1c9-1f9a-4ed9-a47b-31cf46808a8f.png)
+![image](https://user-images.githubusercontent.com/94054806/205163958-4bf2350e-512b-422b-a22c-35bef7260c40.png)
+
+stalling:
+![image](https://user-images.githubusercontent.com/94054806/205164223-db3ead88-7ec3-458d-bec6-8ecfc855077b.png)
+
+
+![image](https://user-images.githubusercontent.com/94054806/205164333-bf1effad-056c-4816-9e3b-65e69287d4bc.png)
+
